@@ -57,4 +57,4 @@
 ---
 **Submission Date:** April 22, 2026
 **Course:** CVE201 Application Design Project
-**Developed by:** [Natwara Kamsang, Tontana Chimwai, Tanapat Srimun]
+**Developed by:** [Natwara Kamsang 67070500619, Tontana Chimwai 67070500621, Tanapat Srimun 67070500628]
