@@ -87,9 +87,9 @@ with c2:
 # --- ส่วนอธิบายสูตร (Explanation of Code) ---
 with st.expander("📙 View Engineering Formulas used in this app"):
     st.write("""
-    - **Wet Volume:** $V = Width \times Length \times Depth$
-    - **Dry Volume:** $V_{dry} = V_{wet} \times 1.54$ (Shrinkage & Voids factor)
-    - **Material Calculation:** $Component = (Ratio / \sum Ratio) \times V_{dry}$
+    - **Wet Volume:** $V = Width \\times Length \\times Depth$
+    - **Dry Volume:** $V_{dry} = V_{wet} \\times 1.54$ (Shrinkage & Voids factor)
+    - **Material Calculation:** $Component = (Ratio / \\sum Ratio) \\times V_{dry}$
     - **Cement Bags:** $Bags = V_{cement} / 0.035$
     """)
     
