@@ -92,5 +92,5 @@ with st.expander("📙 View Engineering Formulas used in this app"):
     - **Material Calculation:** $Component = (Ratio / \sum Ratio) \times V_{dry}$
     - **Cement Bags:** $Bags = V_{cement} / 0.035$
     """)
-
+    
 st.caption("Developed for Application Design Project - Submission Date: 22 April")
