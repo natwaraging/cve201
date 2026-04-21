@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # --- การตั้งค่าหน้าเว็บ ---
 st.set_page_config(page_title="Civil Concrete Pro", page_icon="🏗️", layout="wide")
 
-# --- Custom CSS เพื่อความสวยงาม ---
+# --- Custom CSS ---
 st.markdown("""
     <style>
     .main { background-color: #f5f5f5; }
@@ -84,7 +84,7 @@ with c2:
     ax.axis('equal') 
     st.pyplot(fig)
 
-# --- ส่วนอธิบายสูตร (ดีมากสำหรับ Explanation of Code) ---
+# --- ส่วนอธิบายสูตร (Explanation of Code) ---
 with st.expander("📙 View Engineering Formulas used in this app"):
     st.write("""
     - **Wet Volume:** $V = Width \times Length \times Depth$
